@@ -1,7 +1,6 @@
-TO-DO LIST
+ -- TO-DO LIST --
 
 Created a to-do list webpage where you can add, replace and delete your list. To create this page I've used HTML, CSS and JavaScript.
-
 
 I've encountered some issues, but managed to fix it and make it work. This were the bugs:
 
