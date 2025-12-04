@@ -10,4 +10,6 @@ Created a to-do list webpage where you can add, replace and delete your list. To
 '. There was no event handler attached correctly, therefore nothing happens immediately when the page loads, NOT when the user clicks. So I've pass it, like so: 'deleteAllTasks()' .
 
 
+This project can be view following the link below:
+
 https://adrianaa911.github.io/TODO-LIST/
