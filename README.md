@@ -8,7 +8,7 @@ I've encountered some issues, but managed to fix it and make it work. This were 
 
 2. Has an style problem- my tick didn't appeared as It should.
 
-3. The 'deleteAllTasks' button was used inccorectly, didn't worked and had to fix it. I was still calling the function instead of passing it, like this: 'deleteButton.addEventListener("click", deleteAllTasks());
+3. The 'deleteAllTasks' button was used incorrectly, didn't worked and had to fix it. I was still calling the function instead of passing it, like this: 'deleteButton.addEventListener("click", deleteAllTasks());
 '. There was no event handler attached correctly, therefore nothing happens immediately when the page loads, NOT when the user clicks. So I've pass it, like so: 'deleteAllTasks()' .
 
 
